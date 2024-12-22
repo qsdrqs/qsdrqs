@@ -8,12 +8,12 @@ I am a big fan of open-source software and I love to contribute to projects that
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,rust,cpp,neovim,nix" />
+    <img src="https://skillicons.dev/icons?i=c,py,rust,cpp,neovim,nix&theme=light" />
   </a>
 </p>
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qsdrqs&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qsdrqs" alt="mystreak"/>
 </p>
 
 <!--
