@@ -13,7 +13,7 @@ I am a big fan of open-source software and I love to contribute to projects that
 </p>
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qsdrqs" alt="mystreak"/>
+<img src="https://qsdrqs.site/ghstreak" alt="mystreak"/>
 </p>
 
 <!--
